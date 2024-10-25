@@ -1,0 +1,3 @@
+﻿  Battleships.cpp
+C:\Users\s5613845\Downloads\ProceduralBattleships\ProceduralBattleships\Battleships.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProceduralBattleships.vcxproj -> C:\Users\s5613845\Downloads\ProceduralBattleships\x64\Debug\ProceduralBattleships.exe
